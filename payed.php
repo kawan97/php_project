@@ -94,7 +94,7 @@ if($taybat==0){
         </div>
     </div>
     <div id="data" class="container">
-    <p class="font-weight-bold">that Items are not payed</p>
+    <p class="font-weight-bold">that Items are payed</p>
     <a class="btn btn-success" href="print_payed.php" > Print All</a>
 
         <div>
