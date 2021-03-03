@@ -37,7 +37,7 @@ $pdf->AddPage();
 //$pdf->Cell(80);
 $pdf->Image('logo.jpg', '115', '1', '33', '33');
 $pdf->Cell(130,6,' Database',0,1);
-$pdf->Cell(20,6,' that item are noy payed',0,1);
+$pdf->Cell(20,6,' all items',0,1);
 $pdf->SetFont('dejavusans', '', 9);
 
 $pdf->Cell(130,6,' dsdsdss',0,0);
